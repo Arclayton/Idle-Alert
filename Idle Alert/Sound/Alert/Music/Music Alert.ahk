@@ -48,7 +48,7 @@
 
 ;----------------------------------------------- Play Music Alert
 
-; Ocean Waves Alert
+; Music Alert
 	SoundPlay, %Music_Alert%
 	Sleep, 60000
 	ExitApp
